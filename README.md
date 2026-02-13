@@ -1,16 +1,23 @@
-## Chase Foster
-Co-founder of **Carbon Manufacturing Systems**.
+## Hi, I'm Chase 👋
 
-We help manufacturing businesses who need full control over their software and a single system to run their entire operation.
+📍 NYC → Texas | ⚙️ CEO & Co-founder @ [Carbon](https://carbon.ms/) | 🛠️ Building for the factories around the world
 
-### About Carbon
-We are an open-source platform that provides manufacturers with access to their source code, allowing businesses to build and manage their own fully integrated software stacks.
+> Helping manufacturing businesses who want full control over their software and a single system to run their entire operation.
 
-### Background
-Before Carbon, I worked in software sales at Salesforce, AWS, and GCP. I am now focused on building tools that give manufacturers more flexibility and ownership of their technology.
+### Current Projects
 
-### Links
-* **Website:** [carbon.ms](https://carbon.ms)
+* 🏗️ **Carbon ERP** — The open-source, all-in-one platform for manufacturers.
+* ⚙️ **Carbon MES** — Fully integrated manufacturing execution system.
+
+### My Story
+
+💼 I spent my career in enterprise software sales before joining Carbon.
+⌨️ In 2026, I realized I could build the tools myself and started doing exactly that.
+⛳️ I love golf!
+
+### Connect with me
+
+* **Website:** [carbon.ms](https://carbon.ms/)
 * **X / Twitter:** [@ChaseFosterMfg](https://x.com/ChaseFosterMfg)
 * **LinkedIn:** [Chase Foster](https://www.linkedin.com/in/chasefoster/)
 <!--
