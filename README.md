@@ -6,14 +6,14 @@
 
 ### Current Projects
 
-* 🏗️ **Carbon ERP** — The open-source, all-in-one platform for manufacturers.
-* ⚙️ **Carbon MES** — Fully integrated manufacturing execution system.
+* 🏗️ **Carbon ERP:**  The open-source, all-in-one platform for forward-thinking manufacturers.
+* ⚙️ **Carbon MES:**  Fully integrated manufacturing execution system to help keep the shop floor doing what they do best.
 
 ### My Story
 
 * 💼 I spent my career in enterprise software sales before joining Carbon.
 * ⌨️ In 2026, I realized I could build the tools myself and started doing exactly that.
-* ⛳️ I love golf!
+* ⛳️ I love golf! When I'm not at my computer, I'm usually at the range.
 
 ### Connect with me
 
