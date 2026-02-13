@@ -11,9 +11,9 @@
 
 ### My Story
 
-💼 I spent my career in enterprise software sales before joining Carbon.
-⌨️ In 2026, I realized I could build the tools myself and started doing exactly that.
-⛳️ I love golf!
+* 💼 I spent my career in enterprise software sales before joining Carbon.
+* ⌨️ In 2026, I realized I could build the tools myself and started doing exactly that.
+* ⛳️ I love golf!
 
 ### Connect with me
 
