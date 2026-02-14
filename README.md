@@ -19,7 +19,7 @@
 
 * **Website:** [carbon.ms](https://carbon.ms/)
 * **X / Twitter:** [@ChaseFosterMfg](https://x.com/ChaseFosterMfg)
-* **LinkedIn:** [Chase Foster](https://www.linkedin.com/in/chasefoster/)
+* **LinkedIn:** [Chase Foster](https://www.linkedin.com/in/chasefoster1/)
 <!--
 **chasefostermfg/chasefostermfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
